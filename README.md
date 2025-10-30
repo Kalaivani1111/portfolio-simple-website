@@ -13,7 +13,7 @@ aclass and sraight forward use experience.
 - CSS3
 
 ## 🔍 How to View
-You can access  my portfolio website by visiting [file:///C:/Users/ELCOT/Desktop/FLWD/css/intax.html] feel free to explore the contact and get is touch!
+You can access  my portfolio website by visiting [C:\Users\ELCOT\Desktop\FLWD\css\intax.html] feel free to explore the contact and get is touch!
 
 ## Contributing
 If you like to contribute or suggest improvement, please feel free to open an issue or create a pull request. Your feedback is greatly appreciated.
